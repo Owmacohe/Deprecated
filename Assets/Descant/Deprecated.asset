@@ -1,0 +1,1404 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce95f313843e48d1a4b8cf6050141954, type: 3}
+  m_Name: Deprecated
+  m_EditorClassIdentifier: 
+  Autosave: 1
+  Advanced: 1
+  PannedPosition: {x: 49, y: -1095, z: 0}
+  ScrolledScale: {x: 0.43232757, y: 0.43232757, z: 1}
+  Typewriter: 0
+  TypewriterSpeed: 1
+  ChoiceNodeID: 43
+  ResponseNodeID: 63
+  IfNodeID: 0
+  EndNodeID: 1
+  GroupID: 7
+  ChoiceNodes:
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 0
+    Position: {x: 560, y: 0}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - How far down do you think we are?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 1
+    Position: {x: 1763, y: 0}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Wow.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 2
+    Position: {x: -51, y: 398}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Careful now, there's a step.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 3
+    Position: {x: 1153, y: 398}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - The bottom level is submerged. Looks like coolant. Want to keep pressing in?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 4
+    Position: {x: 2350, y: 398}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Ugh, why's it so cold?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 5
+    Position: {x: 3591, y: 398}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - I don't see why they'd need to keep these banks running. You know we could
+      use the power.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 6
+    Position: {x: -51, y: 814}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - I miss the elevators. This is just gross, wading around in processing goo.
+      You sure there's no better way to get to the archive level?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 7
+    Position: {x: 1153, y: 814}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - They just bore down, adding these access shafts as they went?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 8
+    Position: {x: 2350, y: 814}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - How do you even know all this?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 9
+    Position: {x: 3591, y: 814}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - I was only ever told there were 4.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 10
+    Position: {x: 4812, y: 814}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Yeah. I can't believe that there's <i>more</i>.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 11
+    Position: {x: 560, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Yeah?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 12
+    Position: {x: 1763, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Where?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 13
+    Position: {x: 2985, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - It's too dark in here. All I see are diodes.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 14
+    Position: {x: 4203, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - This hatch?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 15
+    Position: {x: 6049, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - The rumbling?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 16
+    Position: {x: 7284, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - By all means.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 17
+    Position: {x: 560, y: 1695}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - I did. Wasn't easy to get a hold of either.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 18
+    Position: {x: 1763, y: 1695}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - I know.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 19
+    Position: {x: 2985, y: 1695}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Well you know me. I get it done.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 20
+    Position: {x: 560, y: 2097}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - It won't interfere with our schedule?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 21
+    Position: {x: 1763, y: 2097}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Then let's take a look.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 22
+    Position: {x: 2350, y: 2097}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - I didn't expect it to be so... empty.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 23
+    Position: {x: 3591, y: 2097}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - How many generations ago was this?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 24
+    Position: {x: 4812, y: 2097}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Time all stacked up.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 25
+    Position: {x: -51, y: 2506}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Hey what is this?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 26
+    Position: {x: 1153, y: 2506}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Aren't you the expert?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 27
+    Position: {x: 2350, y: 2506}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Well that's a little clastrophobic.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 28
+    Position: {x: 560, y: 2975}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - It's quiet again.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 29
+    Position: {x: 1763, y: 2975}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - That's what the rumbling was then?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 30
+    Position: {x: 2985, y: 2975}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Could be?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 31
+    Position: {x: 4203, y: 2975}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Hm.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 32
+    Position: {x: 560, y: 3367}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Sure, here you go.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 33
+    Position: {x: 1153, y: 3367}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - You've done this before, right?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 34
+    Position: {x: -51, y: 4082}
+    NodeComponents:
+    - rid: 2479963306684317715
+    Comments: 
+    Choices:
+    - You there?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 35
+    Position: {x: 1153, y: 4082}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - That was intense.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 36
+    Position: {x: 2350, y: 4082}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - It was an honour to watch you work.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 37
+    Position: {x: 3591, y: 4082}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Did you get anything?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 38
+    Position: {x: 4812, y: 4082}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Anything we can use?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 39
+    Position: {x: 560, y: 4468}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - What?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 40
+    Position: {x: 1763, y: 4468}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Wow. Holy shit.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 41
+    Position: {x: 2985, y: 4468}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - We gotta get this upstairs.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 42
+    Position: {x: 4203, y: 4468}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - You okay to walk?
+  ResponseNodes:
+  - Name: ResponseNode
+    Type: Response
+    ID: 0
+    Position: {x: -51, y: 0}
+    NodeComponents: []
+    Comments: 
+    Response: Just a few more steps now.
+  - Name: ResponseNode
+    Type: Response
+    ID: 1
+    Position: {x: 1153, y: 0}
+    NodeComponents: []
+    Comments: 
+    Response: Pretty damn far. We're somewhere between soft storage and the heating
+      core.
+  - Name: ResponseNode
+    Type: Response
+    ID: 4
+    Position: {x: 2350, y: 0}
+    NodeComponents: []
+    Comments: 
+    Response: Yeah.
+  - Name: ResponseNode
+    Type: Response
+    ID: 5
+    Position: {x: 560, y: 398}
+    NodeComponents: []
+    Comments: 
+    Response: I see it.
+  - Name: ResponseNode
+    Type: Response
+    ID: 6
+    Position: {x: 1763, y: 398}
+    NodeComponents: []
+    Comments: 
+    Response: Yeah. We have to.
+  - Name: ResponseNode
+    Type: Response
+    ID: 7
+    Position: {x: 2985, y: 398}
+    NodeComponents: []
+    Comments: 
+    Response: This level still gets power from the ventilation farms. That'll become
+      more sporadic further down though.
+  - Name: ResponseNode
+    Type: Response
+    ID: 8
+    Position: {x: 4203, y: 398}
+    NodeComponents: []
+    Comments: 
+    Response: Until we can eliminate the chance of finding something useful on them,
+      on the grid they stay.
+  - Name: ResponseNode
+    Type: Response
+    ID: 9
+    Position: {x: 560, y: 814}
+    NodeComponents: []
+    Comments: 
+    Response: The elevators weren't installed when these levels were built.
+  - Name: ResponseNode
+    Type: Response
+    ID: 10
+    Position: {x: 1763, y: 814}
+    NodeComponents: []
+    Comments: 
+    Response: They bore <i>up</i>, not down. And yeah, pretty much. It gets... less
+      refined the further we go. Or so I've been told.
+  - Name: ResponseNode
+    Type: Response
+    ID: 11
+    Position: {x: 2985, y: 814}
+    NodeComponents: []
+    Comments: 
+    Response: I found a lower-level blueprint on one of the routine dig jobs. But
+      even it doesn't map what's past the 6th reinforement.
+  - Name: ResponseNode
+    Type: Response
+    ID: 12
+    Position: {x: 4203, y: 814}
+    NodeComponents: []
+    Comments: 
+    Response: What, reinforement levels?
+  - Name: ResponseNode
+    Type: Response
+    ID: 14
+    Position: {x: 5423, y: 814}
+    NodeComponents: []
+    Comments: 
+    Response: Mmhm.
+  - Name: ResponseNode
+    Type: Response
+    ID: 15
+    Position: {x: 6049, y: 814}
+    NodeComponents: []
+    Comments: 
+    Response: <i>There's a lot more.</i>
+  - Name: ResponseNode
+    Type: Response
+    ID: 16
+    Position: {x: -51, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Response: Okay wait stop.
+  - Name: ResponseNode
+    Type: Response
+    ID: 18
+    Position: {x: 1153, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Response: There should be an access hatch over there.
+  - Name: ResponseNode
+    Type: Response
+    ID: 19
+    Position: {x: 2350, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Response: There.
+  - Name: ResponseNode
+    Type: Response
+    ID: 20
+    Position: {x: 3591, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Response: Just follow me.
+  - Name: ResponseNode
+    Type: Response
+    ID: 21
+    Position: {x: 4812, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Response: Yeah that's it. Here, I'll help you lift.
+  - Name: ResponseNode
+    Type: Response
+    ID: 22
+    Position: {x: 5423, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Response: Do you hear that?
+  - Name: ResponseNode
+    Type: Response
+    ID: 23
+    Position: {x: 6669, y: 1309}
+    NodeComponents: []
+    Comments: 
+    Response: It means we're getting closer. I'll go through first.
+  - Name: ResponseNode
+    Type: Response
+    ID: 24
+    Position: {x: -51, y: 1695}
+    NodeComponents: []
+    Comments: 
+    Response: Did you bring the adapter?
+  - Name: ResponseNode
+    Type: Response
+    ID: 25
+    Position: {x: 1153, y: 1695}
+    NodeComponents: []
+    Comments: 
+    Response: Sorry for that. But we need it.
+  - Name: ResponseNode
+    Type: Response
+    ID: 26
+    Position: {x: 2350, y: 1695}
+    NodeComponents: []
+    Comments: 
+    Response: I'm honestly surprised you were able to find one. Cross-level adapters
+      are rare, if nonexistant.
+  - Name: ResponseNode
+    Type: Response
+    ID: 27
+    Position: {x: 3591, y: 1695}
+    NodeComponents: []
+    Comments: 
+    Response: That you do.
+  - Name: ResponseNode
+    Type: Response
+    ID: 28
+    Position: {x: -51, y: 2097}
+    NodeComponents: []
+    Comments: 
+    Response: Looks like there's a living quarters to our left. Temporary housing
+      for long trips up and down. You want to take a look?
+  - Name: ResponseNode
+    Type: Response
+    ID: 29
+    Position: {x: 1153, y: 2097}
+    NodeComponents: []
+    Comments: 
+    Response: Nah, we're making excellent time. Still another six hours before the
+      next bio sweep.
+  - Name: ResponseNode
+    Type: Response
+    ID: 30
+    Position: {x: 2985, y: 2097}
+    NodeComponents: []
+    Comments: 
+    Response: I guess they took everything with them when they moved up.
+  - Name: ResponseNode
+    Type: Response
+    ID: 31
+    Position: {x: 4203, y: 2097}
+    NodeComponents: []
+    Comments: 
+    Response: Can't be sure. These levels were clearly in use for a long time. But
+      this is older than one or two hundred years, that's for sure.
+  - Name: ResponseNode
+    Type: Response
+    ID: 32
+    Position: {x: 5423, y: 2097}
+    NodeComponents: []
+    Comments: 
+    Response: Indeed.
+  - Name: ResponseNode
+    Type: Response
+    ID: 34
+    Position: {x: 560, y: 2506}
+    NodeComponents: []
+    Comments: 
+    Response: Uh, I'm not sure.
+  - Name: ResponseNode
+    Type: Response
+    ID: 35
+    Position: {x: 1763, y: 2506}
+    NodeComponents: []
+    Comments: 
+    Response: I've never seen one of those before. The shape reminds me of ventilation
+      batteries though. Could be old, even older than the people who lived here.
+  - Name: ResponseNode
+    Type: Response
+    ID: 37
+    Position: {x: 2985, y: 2506}
+    NodeComponents: []
+    Comments: 
+    Response: You're just saying that because you grew up near the surface.
+  - Name: ResponseNode
+    Type: Response
+    ID: 38
+    Position: {x: -51, y: 2975}
+    NodeComponents: []
+    Comments: 
+    Response: Okay, we're almost there.
+  - Name: ResponseNode
+    Type: Response
+    ID: 40
+    Position: {x: 1153, y: 2975}
+    NodeComponents: []
+    Comments: 
+    Response: We're past the generator arrays.
+  - Name: ResponseNode
+    Type: Response
+    ID: 42
+    Position: {x: 2350, y: 2975}
+    NodeComponents: []
+    Comments: 
+    Response: Could be.
+  - Name: ResponseNode
+    Type: Response
+    ID: 43
+    Position: {x: 3591, y: 2975}
+    NodeComponents: []
+    Comments: 
+    Response: There's a lot we don't know about long-term storage.
+  - Name: ResponseNode
+    Type: Response
+    ID: 45
+    Position: {x: -51, y: 3367}
+    NodeComponents: []
+    Comments: 
+    Response: Can you hand me the adapter?
+  - Name: ResponseNode
+    Type: Response
+    ID: 47
+    Position: {x: 1763, y: 3367}
+    NodeComponents: []
+    Comments: 
+    Response: Only for soft storage in the random access fields. But with your adapter,
+      this is virtually the same.
+  - Name: ResponseNode
+    Type: Response
+    ID: 48
+    Position: {x: 2350, y: 3367}
+    NodeComponents: []
+    Comments: 
+    Response: Plugging in now.
+  - Name: ResponseNode
+    Type: Response
+    ID: 49
+    Position: {x: 2985, y: 3367}
+    NodeComponents:
+    - rid: 2479963306684317714
+    Comments: 
+    Response: '[ INITIALIZING ]
+
+      
+
+      [ sudo ls -v ]
+
+      
+
+      --
+      dir --
+
+      |-> config
+
+      |-> boot
+
+      |-> help
+
+      |-> os
+
+      |->
+      quit'
+  - Name: ResponseNode
+    Type: Response
+    ID: 50
+    Position: {x: 3591, y: 3367}
+    NodeComponents: []
+    Comments: 
+    Response: "[ boot load bin access {0..157} ]\r\n\n[ ACCESSING | 1.40% ]\r\n\r[
+      ACCESSING | 8.97% ]\r\n\r[ ACCESSING | 43.00% ]\r\n\r[ ACCESSING | 43.20% ]\r\n\r[
+      ACCESSING | 43.85% ]\r\n\r\n[ sudo rm grbg collect ]\r\n\r\n[ ACCESSING | 69.42%
+      ]\r\n\r[ ACCESSING | 82.01% ]\r\n\r[ ACCESSING | 99.97% ]\r\n\r[ ACCESSING
+      | 100.00% ]\r\n\r\n[ QUIT ]"
+  - Name: ResponseNode
+    Type: Response
+    ID: 51
+    Position: {x: 560, y: 4082}
+    NodeComponents: []
+    Comments: 
+    Response: I think so.
+  - Name: ResponseNode
+    Type: Response
+    ID: 52
+    Position: {x: 1763, y: 4082}
+    NodeComponents: []
+    Comments: 
+    Response: Was it?
+  - Name: ResponseNode
+    Type: Response
+    ID: 53
+    Position: {x: 2985, y: 4082}
+    NodeComponents: []
+    Comments: 
+    Response: Thanks. I try.
+  - Name: ResponseNode
+    Type: Response
+    ID: 54
+    Position: {x: 4203, y: 4082}
+    NodeComponents: []
+    Comments: 
+    Response: I... I did. I got a <i>lot</i>.
+  - Name: ResponseNode
+    Type: Response
+    ID: 55
+    Position: {x: -51, y: 4468}
+    NodeComponents: []
+    Comments: 
+    Response: Genome sequences... more floor blueprints... far too many dlls... oh...
+  - Name: ResponseNode
+    Type: Response
+    ID: 56
+    Position: {x: 1153, y: 4468}
+    NodeComponents: []
+    Comments: 
+    Response: There are MEM files here.
+  - Name: ResponseNode
+    Type: Response
+    ID: 57
+    Position: {x: 2350, y: 4468}
+    NodeComponents: []
+    Comments: 
+    Response: Yeah.
+  - Name: ResponseNode
+    Type: Response
+    ID: 59
+    Position: {x: 3591, y: 4468}
+    NodeComponents: []
+    Comments: 
+    Response: Definitely.
+  - Name: ResponseNode
+    Type: Response
+    ID: 60
+    Position: {x: 4812, y: 4468}
+    NodeComponents: []
+    Comments: 
+    Response: I'll be fine.
+  - Name: ResponseNode
+    Type: Response
+    ID: 61
+    Position: {x: 5423, y: 4468}
+    NodeComponents: []
+    Comments: 
+    Response: We should be back in a couple hours.
+  - Name: ResponseNode
+    Type: Response
+    ID: 62
+    Position: {x: 4203, y: 3367}
+    NodeComponents: []
+    Comments: 
+    Response: ...
+  IfNodes: []
+  StartNode:
+    Name: StartNode
+    Type: Start
+    ID: 0
+    Position: {x: -591, y: 0}
+    NodeComponents: []
+    Comments: 
+  EndNodes:
+  - Name: EndNode
+    Type: End
+    ID: 0
+    Position: {x: 6042, y: 4468}
+    NodeComponents: []
+    Comments: 
+  Groups:
+  - Name: Introduction
+    ID: 1
+    Position: {x: -75.99984, y: -59.000095}
+    Nodes:
+    - Choice
+    - Choice
+    - Choice
+    - Choice
+    - Choice
+    - Choice
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Response
+    NodeIDs: 000000000100000002000000030000000400000005000000000000000100000004000000050000000600000007000000080000000600000009000000070000000a000000080000000b000000090000000c0000000a0000000e0000000f000000
+    Comments: 
+  - Name: LivingQuarters
+    ID: 4
+    Position: {x: -75.99984, y: 1250}
+    Nodes:
+    - Choice
+    - Choice
+    - Choice
+    - Choice
+    - Choice
+    - Choice
+    - Choice
+    - Choice
+    - Choice
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    - Choice
+    - Choice
+    - Response
+    - Choice
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Choice
+    - Response
+    - Response
+    - Response
+    NodeIDs: 0b0000000c0000000d0000000e0000001100000012000000130000001400000015000000100000001200000013000000140000001500000018000000190000001a0000001b0000001c0000001d0000001e00000016000000170000001f0000001800000019000000220000001a000000230000001b000000250000000f00000010000000160000001700000020000000
+    Comments: 
+  - Name: PluggingIn
+    ID: 5
+    Position: {x: -76.00014, y: 2916.0002}
+    Nodes:
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Choice
+    - Response
+    - Response
+    - Response
+    - Response
+    - Response
+    NodeIDs: 260000001c000000280000001d0000002a0000001e0000002b0000001f0000002d00000020000000210000002f0000003000000031000000320000003e000000
+    Comments: 
+  - Name: Ending
+    ID: 6
+    Position: {x: -75.99984, y: 4023}
+    Nodes:
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Choice
+    - Response
+    - Response
+    - Choice
+    - Response
+    - Response
+    - End
+    NodeIDs: 2200000033000000230000003400000024000000350000002500000036000000260000003700000027000000380000002800000029000000390000003b0000002a0000003c0000003d00000000000000
+    Comments: 
+  Connections:
+  - From: Choice
+    FromID: 0
+    FromIndex: 1
+    To: Response
+    ToID: 1
+  - From: Choice
+    FromID: 1
+    FromIndex: 1
+    To: Response
+    ToID: 4
+  - From: Choice
+    FromID: 2
+    FromIndex: 1
+    To: Response
+    ToID: 5
+  - From: Choice
+    FromID: 3
+    FromIndex: 1
+    To: Response
+    ToID: 6
+  - From: Choice
+    FromID: 4
+    FromIndex: 1
+    To: Response
+    ToID: 7
+  - From: Choice
+    FromID: 5
+    FromIndex: 1
+    To: Response
+    ToID: 8
+  - From: Choice
+    FromID: 6
+    FromIndex: 1
+    To: Response
+    ToID: 9
+  - From: Choice
+    FromID: 7
+    FromIndex: 1
+    To: Response
+    ToID: 10
+  - From: Choice
+    FromID: 8
+    FromIndex: 1
+    To: Response
+    ToID: 11
+  - From: Choice
+    FromID: 9
+    FromIndex: 1
+    To: Response
+    ToID: 12
+  - From: Choice
+    FromID: 10
+    FromIndex: 1
+    To: Response
+    ToID: 14
+  - From: Choice
+    FromID: 11
+    FromIndex: 1
+    To: Response
+    ToID: 18
+  - From: Choice
+    FromID: 12
+    FromIndex: 1
+    To: Response
+    ToID: 19
+  - From: Choice
+    FromID: 13
+    FromIndex: 1
+    To: Response
+    ToID: 20
+  - From: Choice
+    FromID: 14
+    FromIndex: 1
+    To: Response
+    ToID: 21
+  - From: Choice
+    FromID: 15
+    FromIndex: 1
+    To: Response
+    ToID: 23
+  - From: Choice
+    FromID: 16
+    FromIndex: 1
+    To: Response
+    ToID: 24
+  - From: Choice
+    FromID: 17
+    FromIndex: 1
+    To: Response
+    ToID: 25
+  - From: Choice
+    FromID: 18
+    FromIndex: 1
+    To: Response
+    ToID: 26
+  - From: Choice
+    FromID: 19
+    FromIndex: 1
+    To: Response
+    ToID: 27
+  - From: Choice
+    FromID: 20
+    FromIndex: 1
+    To: Response
+    ToID: 29
+  - From: Choice
+    FromID: 21
+    FromIndex: 1
+    To: Choice
+    ToID: 22
+  - From: Choice
+    FromID: 22
+    FromIndex: 1
+    To: Response
+    ToID: 30
+  - From: Choice
+    FromID: 23
+    FromIndex: 1
+    To: Response
+    ToID: 31
+  - From: Choice
+    FromID: 24
+    FromIndex: 1
+    To: Response
+    ToID: 32
+  - From: Choice
+    FromID: 25
+    FromIndex: 1
+    To: Response
+    ToID: 34
+  - From: Choice
+    FromID: 26
+    FromIndex: 1
+    To: Response
+    ToID: 35
+  - From: Choice
+    FromID: 27
+    FromIndex: 1
+    To: Response
+    ToID: 37
+  - From: Choice
+    FromID: 28
+    FromIndex: 1
+    To: Response
+    ToID: 40
+  - From: Choice
+    FromID: 29
+    FromIndex: 1
+    To: Response
+    ToID: 42
+  - From: Choice
+    FromID: 30
+    FromIndex: 1
+    To: Response
+    ToID: 43
+  - From: Choice
+    FromID: 31
+    FromIndex: 1
+    To: Response
+    ToID: 45
+  - From: Choice
+    FromID: 32
+    FromIndex: 1
+    To: Choice
+    ToID: 33
+  - From: Choice
+    FromID: 33
+    FromIndex: 1
+    To: Response
+    ToID: 47
+  - From: Choice
+    FromID: 34
+    FromIndex: 1
+    To: Response
+    ToID: 51
+  - From: Choice
+    FromID: 35
+    FromIndex: 1
+    To: Response
+    ToID: 52
+  - From: Choice
+    FromID: 36
+    FromIndex: 1
+    To: Response
+    ToID: 53
+  - From: Choice
+    FromID: 37
+    FromIndex: 1
+    To: Response
+    ToID: 54
+  - From: Choice
+    FromID: 38
+    FromIndex: 1
+    To: Response
+    ToID: 55
+  - From: Choice
+    FromID: 39
+    FromIndex: 1
+    To: Response
+    ToID: 56
+  - From: Choice
+    FromID: 40
+    FromIndex: 1
+    To: Response
+    ToID: 57
+  - From: Choice
+    FromID: 41
+    FromIndex: 1
+    To: Response
+    ToID: 59
+  - From: Choice
+    FromID: 42
+    FromIndex: 1
+    To: Response
+    ToID: 60
+  - From: Response
+    FromID: 0
+    FromIndex: 0
+    To: Choice
+    ToID: 0
+  - From: Response
+    FromID: 1
+    FromIndex: 0
+    To: Choice
+    ToID: 1
+  - From: Response
+    FromID: 4
+    FromIndex: 0
+    To: Choice
+    ToID: 2
+  - From: Response
+    FromID: 5
+    FromIndex: 0
+    To: Choice
+    ToID: 3
+  - From: Response
+    FromID: 6
+    FromIndex: 0
+    To: Choice
+    ToID: 4
+  - From: Response
+    FromID: 7
+    FromIndex: 0
+    To: Choice
+    ToID: 5
+  - From: Response
+    FromID: 8
+    FromIndex: 0
+    To: Choice
+    ToID: 6
+  - From: Response
+    FromID: 9
+    FromIndex: 0
+    To: Choice
+    ToID: 7
+  - From: Response
+    FromID: 10
+    FromIndex: 0
+    To: Choice
+    ToID: 8
+  - From: Response
+    FromID: 11
+    FromIndex: 0
+    To: Choice
+    ToID: 9
+  - From: Response
+    FromID: 12
+    FromIndex: 0
+    To: Choice
+    ToID: 10
+  - From: Response
+    FromID: 14
+    FromIndex: 0
+    To: Response
+    ToID: 15
+  - From: Response
+    FromID: 15
+    FromIndex: 0
+    To: Response
+    ToID: 16
+  - From: Response
+    FromID: 16
+    FromIndex: 0
+    To: Choice
+    ToID: 11
+  - From: Response
+    FromID: 18
+    FromIndex: 0
+    To: Choice
+    ToID: 12
+  - From: Response
+    FromID: 19
+    FromIndex: 0
+    To: Choice
+    ToID: 13
+  - From: Response
+    FromID: 20
+    FromIndex: 0
+    To: Choice
+    ToID: 14
+  - From: Response
+    FromID: 21
+    FromIndex: 0
+    To: Response
+    ToID: 22
+  - From: Response
+    FromID: 22
+    FromIndex: 0
+    To: Choice
+    ToID: 15
+  - From: Response
+    FromID: 23
+    FromIndex: 0
+    To: Choice
+    ToID: 16
+  - From: Response
+    FromID: 24
+    FromIndex: 0
+    To: Choice
+    ToID: 17
+  - From: Response
+    FromID: 25
+    FromIndex: 0
+    To: Choice
+    ToID: 18
+  - From: Response
+    FromID: 26
+    FromIndex: 0
+    To: Choice
+    ToID: 19
+  - From: Response
+    FromID: 27
+    FromIndex: 0
+    To: Response
+    ToID: 28
+  - From: Response
+    FromID: 28
+    FromIndex: 0
+    To: Choice
+    ToID: 20
+  - From: Response
+    FromID: 29
+    FromIndex: 0
+    To: Choice
+    ToID: 21
+  - From: Response
+    FromID: 30
+    FromIndex: 0
+    To: Choice
+    ToID: 23
+  - From: Response
+    FromID: 31
+    FromIndex: 0
+    To: Choice
+    ToID: 24
+  - From: Response
+    FromID: 32
+    FromIndex: 0
+    To: Choice
+    ToID: 25
+  - From: Response
+    FromID: 34
+    FromIndex: 0
+    To: Choice
+    ToID: 26
+  - From: Response
+    FromID: 35
+    FromIndex: 0
+    To: Choice
+    ToID: 27
+  - From: Response
+    FromID: 37
+    FromIndex: 0
+    To: Response
+    ToID: 38
+  - From: Response
+    FromID: 38
+    FromIndex: 0
+    To: Choice
+    ToID: 28
+  - From: Response
+    FromID: 40
+    FromIndex: 0
+    To: Choice
+    ToID: 29
+  - From: Response
+    FromID: 42
+    FromIndex: 0
+    To: Choice
+    ToID: 30
+  - From: Response
+    FromID: 43
+    FromIndex: 0
+    To: Choice
+    ToID: 31
+  - From: Response
+    FromID: 45
+    FromIndex: 0
+    To: Choice
+    ToID: 32
+  - From: Response
+    FromID: 47
+    FromIndex: 0
+    To: Response
+    ToID: 48
+  - From: Response
+    FromID: 48
+    FromIndex: 0
+    To: Response
+    ToID: 49
+  - From: Response
+    FromID: 49
+    FromIndex: 0
+    To: Response
+    ToID: 50
+  - From: Response
+    FromID: 50
+    FromIndex: 0
+    To: Response
+    ToID: 62
+  - From: Response
+    FromID: 51
+    FromIndex: 0
+    To: Choice
+    ToID: 35
+  - From: Response
+    FromID: 52
+    FromIndex: 0
+    To: Choice
+    ToID: 36
+  - From: Response
+    FromID: 53
+    FromIndex: 0
+    To: Choice
+    ToID: 37
+  - From: Response
+    FromID: 54
+    FromIndex: 0
+    To: Choice
+    ToID: 38
+  - From: Response
+    FromID: 55
+    FromIndex: 0
+    To: Choice
+    ToID: 39
+  - From: Response
+    FromID: 56
+    FromIndex: 0
+    To: Choice
+    ToID: 40
+  - From: Response
+    FromID: 57
+    FromIndex: 0
+    To: Choice
+    ToID: 41
+  - From: Response
+    FromID: 59
+    FromIndex: 0
+    To: Choice
+    ToID: 42
+  - From: Response
+    FromID: 60
+    FromIndex: 0
+    To: Response
+    ToID: 61
+  - From: Response
+    FromID: 61
+    FromIndex: 0
+    To: End
+    ToID: 0
+  - From: Response
+    FromID: 62
+    FromIndex: 0
+    To: Choice
+    ToID: 34
+  - From: Start
+    FromID: 0
+    FromIndex: 0
+    To: Response
+    ToID: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 2479963306684317714
+      type: {class: SetTypewriter, ns: Descant.Components, asm: omch.descant.components}
+      data:
+        Collapsed: 0
+        Active: 1
+    - rid: 2479963306684317715
+      type: {class: SetTypewriter, ns: Descant.Components, asm: omch.descant.components}
+      data:
+        Collapsed: 0
+        Active: 0
