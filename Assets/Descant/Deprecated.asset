@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce95f313843e48d1a4b8cf6050141954, type: 3}
   m_Name: Deprecated
   m_EditorClassIdentifier: 
-  Autosave: 1
+  Autosave: 0
   Advanced: 1
-  PannedPosition: {x: -1332, y: -3045.5, z: 0}
+  PannedPosition: {x: -37783, y: -615, z: 0}
   ScrolledScale: {x: 1, y: 1, z: 1}
   Typewriter: 0
   TypewriterSpeed: 1
-  ChoiceNodeID: 51
-  ResponseNodeID: 76
+  ChoiceNodeID: 59
+  ResponseNodeID: 90
   IfNodeID: 0
   EndNodeID: 1
   GroupID: 7
@@ -27,7 +27,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 0
-    Position: {x: 560, y: -54.5}
+    Position: {x: 1140, y: 115}
     NodeComponents: []
     Comments: 
     Choices:
@@ -35,7 +35,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 1
-    Position: {x: 1763, y: 0}
+    Position: {x: 2343, y: 27}
     NodeComponents: []
     Comments: 
     Choices:
@@ -44,7 +44,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 2
-    Position: {x: -51, y: 398}
+    Position: {x: 4697, y: -240}
     NodeComponents: []
     Comments: 
     Choices:
@@ -53,7 +53,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 3
-    Position: {x: 1153, y: 243.5}
+    Position: {x: 5901, y: -394}
     NodeComponents: []
     Comments: 
     Choices:
@@ -61,7 +61,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 4
-    Position: {x: 2350, y: 398}
+    Position: {x: 7098, y: -240}
     NodeComponents: []
     Comments: 
     Choices:
@@ -70,7 +70,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 5
-    Position: {x: 3591, y: 176.5}
+    Position: {x: 8311, y: -381}
     NodeComponents: []
     Comments: 
     Choices:
@@ -79,7 +79,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 6
-    Position: {x: -51, y: 814}
+    Position: {x: 9553, y: -280}
     NodeComponents: []
     Comments: 
     Choices:
@@ -88,7 +88,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 7
-    Position: {x: 1153, y: 866.5}
+    Position: {x: 10723, y: -280}
     NodeComponents: []
     Comments: 
     Choices:
@@ -96,7 +96,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 8
-    Position: {x: 2350, y: 814}
+    Position: {x: 11940, y: -28}
     NodeComponents: []
     Comments: 
     Choices:
@@ -104,7 +104,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 9
-    Position: {x: 3591, y: 814}
+    Position: {x: 13171, y: 162}
     NodeComponents: []
     Comments: 
     Choices:
@@ -114,7 +114,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 10
-    Position: {x: 4812, y: 1083.5}
+    Position: {x: 14380, y: -31}
     NodeComponents: []
     Comments: 
     Choices:
@@ -122,7 +122,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 11
-    Position: {x: 560, y: 1569}
+    Position: {x: 17095, y: 540}
     NodeComponents: []
     Comments: 
     Choices:
@@ -130,7 +130,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 12
-    Position: {x: 1763, y: 1569}
+    Position: {x: 18298, y: 540}
     NodeComponents: []
     Comments: 
     Choices:
@@ -139,7 +139,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 13
-    Position: {x: 2985, y: 1569}
+    Position: {x: 19500, y: 489}
     NodeComponents: []
     Comments: 
     Choices:
@@ -147,7 +147,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 14
-    Position: {x: 4203, y: 1569}
+    Position: {x: 20662, y: 444}
     NodeComponents: []
     Comments: 
     Choices:
@@ -155,7 +155,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 15
-    Position: {x: 6049, y: 1569}
+    Position: {x: 22508, y: 444}
     NodeComponents: []
     Comments: 
     Choices:
@@ -165,7 +165,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 16
-    Position: {x: 7284, y: 1569}
+    Position: {x: 23727, y: 69}
     NodeComponents: []
     Comments: 
     Choices:
@@ -173,7 +173,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 17
-    Position: {x: 560, y: 1955}
+    Position: {x: 25108, y: 223}
     NodeComponents: []
     Comments: 
     Choices:
@@ -182,7 +182,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 18
-    Position: {x: 1763, y: 1859}
+    Position: {x: 26367, y: 187}
     NodeComponents: []
     Comments: 
     Choices:
@@ -190,7 +190,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 19
-    Position: {x: 2985, y: 1955}
+    Position: {x: 27559, y: 323}
     NodeComponents: []
     Comments: 
     Choices:
@@ -198,7 +198,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 20
-    Position: {x: 560, y: 2357}
+    Position: {x: 29282, y: 560}
     NodeComponents: []
     Comments: 
     Choices:
@@ -207,7 +207,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 21
-    Position: {x: 1763, y: 2422}
+    Position: {x: 30453, y: 1089}
     NodeComponents: []
     Comments: 
     Choices:
@@ -215,7 +215,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 22
-    Position: {x: 2350, y: 2475.5}
+    Position: {x: 31077, y: 1082}
     NodeComponents: []
     Comments: 
     Choices:
@@ -224,7 +224,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 23
-    Position: {x: 3591, y: 2332.5}
+    Position: {x: 32323, y: 971}
     NodeComponents: []
     Comments: 
     Choices:
@@ -232,15 +232,16 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 24
-    Position: {x: 4812, y: 2357}
+    Position: {x: 33608, y: 940}
     NodeComponents: []
     Comments: 
     Choices:
     - Time all stacked up.
+    - Stacks all timed up.
   - Name: ChoiceNode
     Type: Choice
     ID: 25
-    Position: {x: -51, y: 2766}
+    Position: {x: 35422, y: 822}
     NodeComponents: []
     Comments: 
     Choices:
@@ -248,41 +249,44 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 26
-    Position: {x: 1153, y: 2836}
+    Position: {x: 36677, y: 892}
     NodeComponents: []
     Comments: 
     Choices:
     - Aren't you the expert?
+    - Oh ok.
   - Name: ChoiceNode
     Type: Choice
     ID: 27
-    Position: {x: 2350, y: 2811}
+    Position: {x: 37859, y: 750}
     NodeComponents: []
     Comments: 
     Choices:
-    - Well that's a little clastrophobic.
+    - Well that's a little claustrophobic.
+    - How is that possible?
   - Name: ChoiceNode
     Type: Choice
     ID: 28
-    Position: {x: 556, y: 3275}
+    Position: {x: 41223, y: 1367}
     NodeComponents: []
     Comments: 
     Choices:
     - It's quiet again.
+    - It feels like we've been walking for hours. Same staircases, same empty corridors.
   - Name: ChoiceNode
     Type: Choice
     ID: 29
-    Position: {x: 1759, y: 3275}
+    Position: {x: 42604, y: 1170}
     NodeComponents: []
     Comments: 
     Choices:
     - That's what the rumbling was then?
     - Wait, there are storage levels above <i>and</i> below the generators? Why not
-      put them all in the same area.
+      put them all in the same area?
   - Name: ChoiceNode
     Type: Choice
     ID: 30
-    Position: {x: 2981, y: 3275}
+    Position: {x: 43879, y: 888}
     NodeComponents: []
     Comments: 
     Choices:
@@ -290,7 +294,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 31
-    Position: {x: 4199, y: 3275}
+    Position: {x: 45138, y: 1052}
     NodeComponents: []
     Comments: 
     Choices:
@@ -298,15 +302,16 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 32
-    Position: {x: 556, y: 3667}
+    Position: {x: 46972, y: 1229}
     NodeComponents: []
     Comments: 
     Choices:
     - Sure, here you go.
+    - Wait, hold on...
   - Name: ChoiceNode
     Type: Choice
     ID: 33
-    Position: {x: 1149, y: 3667}
+    Position: {x: 47567, y: 992}
     NodeComponents: []
     Comments: 
     Choices:
@@ -314,16 +319,16 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 34
-    Position: {x: -56, y: 4490}
+    Position: {x: 54325, y: 812}
     NodeComponents:
-    - rid: 2479963306684317715
+    - rid: 2479963375653356573
     Comments: 
     Choices:
     - You there?
   - Name: ChoiceNode
     Type: Choice
     ID: 35
-    Position: {x: 1148, y: 4490}
+    Position: {x: 55529, y: 812}
     NodeComponents: []
     Comments: 
     Choices:
@@ -331,15 +336,16 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 36
-    Position: {x: 2345, y: 4490}
+    Position: {x: 56726, y: 812}
     NodeComponents: []
     Comments: 
     Choices:
     - It was an honour to watch you work.
+    - Honestly no. Just a bunch of blinking data values. But I bet you had a ride.
   - Name: ChoiceNode
     Type: Choice
     ID: 37
-    Position: {x: 3586, y: 4490}
+    Position: {x: 57935, y: 588}
     NodeComponents: []
     Comments: 
     Choices:
@@ -347,7 +353,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 38
-    Position: {x: 4807, y: 4490}
+    Position: {x: 59188, y: 812}
     NodeComponents: []
     Comments: 
     Choices:
@@ -355,7 +361,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 39
-    Position: {x: 555, y: 4876}
+    Position: {x: 60386, y: 826}
     NodeComponents: []
     Comments: 
     Choices:
@@ -363,7 +369,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 40
-    Position: {x: 1758, y: 4876}
+    Position: {x: 61589, y: 826}
     NodeComponents: []
     Comments: 
     Choices:
@@ -371,7 +377,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 41
-    Position: {x: 2980, y: 4876}
+    Position: {x: 62811, y: 826}
     NodeComponents: []
     Comments: 
     Choices:
@@ -379,7 +385,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 42
-    Position: {x: 4198, y: 4876}
+    Position: {x: 64029, y: 826}
     NodeComponents: []
     Comments: 
     Choices:
@@ -387,7 +393,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 43
-    Position: {x: 2985, y: -118}
+    Position: {x: 3537, y: 135}
     NodeComponents: []
     Comments: 
     Choices:
@@ -395,7 +401,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 44
-    Position: {x: 1153, y: 539}
+    Position: {x: 5901, y: -99}
     NodeComponents: []
     Comments: 
     Choices:
@@ -403,7 +409,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 45
-    Position: {x: 3591, y: 474.5}
+    Position: {x: 8311, y: -83}
     NodeComponents: []
     Comments: 
     Choices:
@@ -412,7 +418,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 46
-    Position: {x: 5423, y: 475}
+    Position: {x: 9542, y: 248}
     NodeComponents: []
     Comments: 
     Choices:
@@ -422,7 +428,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 47
-    Position: {x: 4812, y: 789}
+    Position: {x: 14380, y: -326}
     NodeComponents: []
     Comments: 
     Choices:
@@ -430,7 +436,7 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 49
-    Position: {x: 7284, y: 2202}
+    Position: {x: 23727, y: 808}
     NodeComponents: []
     Comments: 
     Choices:
@@ -440,23 +446,82 @@ MonoBehaviour:
   - Name: ChoiceNode
     Type: Choice
     ID: 50
-    Position: {x: 1763, y: 2118}
+    Position: {x: 26367, y: 650}
     NodeComponents: []
     Comments: 
     Choices:
     - Me too.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 51
+    Position: {x: 34807, y: 1133}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - What?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 52
+    Position: {x: 39071, y: 951}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Yeah but they clearly left this thing behind.
+    - Did they know what they were running from?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 53
+    Position: {x: 42604, y: 1541}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Glad I have you then.
+    - Wait, are we lost then?
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 54
+    Position: {x: 47567, y: 1337}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - ...
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 55
+    Position: {x: 48744, y: 1337}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - It's... not here.
+    - Oh no wait here it is!
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 56
+    Position: {x: 50022, y: 1462}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - Shit.
+  - Name: ChoiceNode
+    Type: Choice
+    ID: 58
+    Position: {x: 51246, y: 1462}
+    NodeComponents: []
+    Comments: 
+    Choices:
+    - O- Okay.
   ResponseNodes:
   - Name: ResponseNode
     Type: Response
     ID: 0
-    Position: {x: -51, y: 0}
+    Position: {x: 529, y: 92}
     NodeComponents: []
     Comments: 
     Response: Just a few more steps now.
   - Name: ResponseNode
     Type: Response
     ID: 1
-    Position: {x: 1153, y: -99.5}
+    Position: {x: 1733, y: 70}
     NodeComponents: []
     Comments: 
     Response: Pretty damn far. We're somewhere between soft storage and the heating
@@ -464,28 +529,28 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 4
-    Position: {x: 3591, y: -163}
+    Position: {x: 4131, y: -254}
     NodeComponents: []
     Comments: 
     Response: Yeah.
   - Name: ResponseNode
     Type: Response
     ID: 5
-    Position: {x: 560, y: 243.5}
+    Position: {x: 5308, y: -394}
     NodeComponents: []
     Comments: 
     Response: I see it.
   - Name: ResponseNode
     Type: Response
     ID: 6
-    Position: {x: 1763, y: 398}
+    Position: {x: 6511, y: -240}
     NodeComponents: []
     Comments: 
     Response: Yeah. We have to.
   - Name: ResponseNode
     Type: Response
     ID: 7
-    Position: {x: 2985, y: 176.5}
+    Position: {x: 7705, y: -381}
     NodeComponents: []
     Comments: 
     Response: This level still gets power from the ventilation farms. That'll become
@@ -493,7 +558,7 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 8
-    Position: {x: 4203, y: 176.5}
+    Position: {x: 8931, y: -393}
     NodeComponents: []
     Comments: 
     Response: Until we can eliminate the chance of finding something useful on them,
@@ -501,14 +566,14 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 9
-    Position: {x: 560, y: 866.5}
+    Position: {x: 10130, y: -280}
     NodeComponents: []
     Comments: 
     Response: The elevators weren't installed when these levels were built.
   - Name: ResponseNode
     Type: Response
     ID: 10
-    Position: {x: 1763, y: 814}
+    Position: {x: 11353, y: -28}
     NodeComponents: []
     Comments: 
     Response: They bore <i>up</i>, not down. And yeah, pretty much. It gets... less
@@ -516,7 +581,7 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 11
-    Position: {x: 2985, y: 814}
+    Position: {x: 12559, y: 192}
     NodeComponents: []
     Comments: 
     Response: I found a lower-level blueprint on one of the routine dig jobs. But
@@ -524,91 +589,92 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 12
-    Position: {x: 4203, y: 1083.5}
+    Position: {x: 13787, y: -31}
     NodeComponents: []
     Comments: 
     Response: What, reinforement levels?
   - Name: ResponseNode
     Type: Response
     ID: 14
-    Position: {x: 5423, y: 1083.5}
+    Position: {x: 14975, y: 162}
     NodeComponents: []
     Comments: 
     Response: Mmhm.
   - Name: ResponseNode
     Type: Response
     ID: 15
-    Position: {x: 6049, y: 814}
+    Position: {x: 15506, y: 583}
     NodeComponents: []
     Comments: 
     Response: <i>There's a lot more.</i>
   - Name: ResponseNode
     Type: Response
     ID: 16
-    Position: {x: -51, y: 1569}
-    NodeComponents: []
+    Position: {x: 16484, y: 540}
+    NodeComponents:
+    - rid: 2479963375653356574
     Comments: 
     Response: Okay wait stop.
   - Name: ResponseNode
     Type: Response
     ID: 18
-    Position: {x: 1153, y: 1518}
+    Position: {x: 17688, y: 489}
     NodeComponents: []
     Comments: 
     Response: There should be an access hatch over there.
   - Name: ResponseNode
     Type: Response
     ID: 19
-    Position: {x: 2350, y: 1524}
+    Position: {x: 18889, y: 258}
     NodeComponents: []
     Comments: 
     Response: There.
   - Name: ResponseNode
     Type: Response
     ID: 20
-    Position: {x: 3591, y: 1569}
+    Position: {x: 20083, y: 444}
     NodeComponents: []
     Comments: 
     Response: Just follow me.
   - Name: ResponseNode
     Type: Response
     ID: 21
-    Position: {x: 4812, y: 1569}
+    Position: {x: 21271, y: 444}
     NodeComponents: []
     Comments: 
     Response: Yeah that's it. Here, I'll help you lift.
   - Name: ResponseNode
     Type: Response
     ID: 22
-    Position: {x: 5423, y: 1569}
+    Position: {x: 21882, y: 444}
     NodeComponents: []
     Comments: 
     Response: Do you hear that?
   - Name: ResponseNode
     Type: Response
     ID: 23
-    Position: {x: 6669, y: 1569}
+    Position: {x: 23148, y: 162}
     NodeComponents: []
     Comments: 
     Response: It means we're getting closer. I'll go through first.
   - Name: ResponseNode
     Type: Response
     ID: 24
-    Position: {x: -51, y: 1955}
+    Position: {x: 24457, y: 227}
     NodeComponents: []
     Comments: 
     Response: Did you bring the adapter?
   - Name: ResponseNode
     Type: Response
     ID: 25
-    Position: {x: 1153, y: 1859}
+    Position: {x: 25753, y: 191}
     NodeComponents: []
     Comments: 
     Response: Sorry for that. But we need it.
   - Name: ResponseNode
     Type: Response
     ID: 26
-    Position: {x: 2350, y: 2140.5}
+    Position: {x: 26948, y: 336}
     NodeComponents: []
     Comments: 
     Response: I'm honestly surprised you were able to find one. Cross-level adapters
@@ -616,14 +682,14 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 27
-    Position: {x: 3591, y: 1955}
+    Position: {x: 28152, y: 336}
     NodeComponents: []
     Comments: 
     Response: That you do.
   - Name: ResponseNode
     Type: Response
     ID: 28
-    Position: {x: -51, y: 2357}
+    Position: {x: 28727, y: 573}
     NodeComponents: []
     Comments: 
     Response: Looks like there's a living quarters to our left. Temporary housing
@@ -631,7 +697,7 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 29
-    Position: {x: 1153, y: 2514}
+    Position: {x: 29845, y: 1059}
     NodeComponents: []
     Comments: 
     Response: Nah, we're making excellent time. Still another six hours before the
@@ -639,14 +705,14 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 30
-    Position: {x: 2985, y: 2236.5}
+    Position: {x: 31712, y: 843}
     NodeComponents: []
     Comments: 
     Response: I guess they took everything with them when they moved up.
   - Name: ResponseNode
     Type: Response
     ID: 31
-    Position: {x: 4203, y: 2357}
+    Position: {x: 32935, y: 995}
     NodeComponents: []
     Comments: 
     Response: Can't be sure. These levels were clearly in use for a long time. But
@@ -654,21 +720,21 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 32
-    Position: {x: 5423, y: 2357}
+    Position: {x: 34228, y: 807}
     NodeComponents: []
     Comments: 
     Response: Indeed.
   - Name: ResponseNode
     Type: Response
     ID: 34
-    Position: {x: 560, y: 2766}
+    Position: {x: 36044, y: 822}
     NodeComponents: []
     Comments: 
     Response: Uh, I'm not sure.
   - Name: ResponseNode
     Type: Response
     ID: 35
-    Position: {x: 1763, y: 2766}
+    Position: {x: 37275, y: 729}
     NodeComponents: []
     Comments: 
     Response: I've never seen one of those before. The shape reminds me of ventilation
@@ -676,49 +742,50 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 37
-    Position: {x: 2985, y: 2845}
+    Position: {x: 38494, y: 540}
     NodeComponents: []
     Comments: 
     Response: You're just saying that because you grew up near the surface.
   - Name: ResponseNode
     Type: Response
     ID: 38
-    Position: {x: -55, y: 3275}
-    NodeComponents: []
+    Position: {x: 40612, y: 1367}
+    NodeComponents:
+    - rid: 2479963375653356575
     Comments: 
     Response: Okay, we're almost there.
   - Name: ResponseNode
     Type: Response
     ID: 40
-    Position: {x: 1149, y: 3275}
+    Position: {x: 41994, y: 1170}
     NodeComponents: []
     Comments: 
     Response: We're past the generator arrays.
   - Name: ResponseNode
     Type: Response
     ID: 42
-    Position: {x: 2346, y: 3275}
+    Position: {x: 43278, y: 888}
     NodeComponents: []
     Comments: 
     Response: Could be.
   - Name: ResponseNode
     Type: Response
     ID: 43
-    Position: {x: 3587, y: 3275}
+    Position: {x: 44533, y: 1052}
     NodeComponents: []
     Comments: 
     Response: There's a lot we don't know about long-term storage.
   - Name: ResponseNode
     Type: Response
     ID: 45
-    Position: {x: -55, y: 3667}
+    Position: {x: 46361, y: 1229}
     NodeComponents: []
     Comments: 
     Response: Can you hand me the adapter?
   - Name: ResponseNode
     Type: Response
     ID: 47
-    Position: {x: 1759, y: 3667}
+    Position: {x: 48159, y: 958}
     NodeComponents: []
     Comments: 
     Response: Only for soft storage in the random access fields. But with your adapter,
@@ -726,14 +793,14 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 48
-    Position: {x: 2346, y: 3667}
+    Position: {x: 49399, y: 778}
     NodeComponents: []
     Comments: 
     Response: Plugging in now.
   - Name: ResponseNode
     Type: Response
     ID: 49
-    Position: {x: 2981, y: 3667}
+    Position: {x: 50034, y: 778}
     NodeComponents:
     - rid: 2479963306684317714
     Comments: 
@@ -760,7 +827,7 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 50
-    Position: {x: 3587, y: 3667}
+    Position: {x: 50634, y: 778}
     NodeComponents: []
     Comments: 
     Response: "[ boot load bin access {0..157} ]\r\n\n[ ACCESSING | 1.40% ]\r\n\r[
@@ -771,91 +838,92 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 51
-    Position: {x: 555, y: 4490}
+    Position: {x: 54936, y: 812}
     NodeComponents: []
     Comments: 
     Response: I think so.
   - Name: ResponseNode
     Type: Response
     ID: 52
-    Position: {x: 1758, y: 4490}
+    Position: {x: 56139, y: 812}
     NodeComponents: []
     Comments: 
     Response: Was it?
   - Name: ResponseNode
     Type: Response
     ID: 53
-    Position: {x: 2980, y: 4490}
+    Position: {x: 57329, y: 588}
     NodeComponents: []
     Comments: 
     Response: Thanks. I try.
   - Name: ResponseNode
     Type: Response
     ID: 54
-    Position: {x: 4198, y: 4490}
+    Position: {x: 58579, y: 812}
     NodeComponents: []
     Comments: 
     Response: I... I did. I got a <i>lot</i>.
   - Name: ResponseNode
     Type: Response
     ID: 55
-    Position: {x: -56, y: 4876}
+    Position: {x: 59775, y: 826}
     NodeComponents: []
     Comments: 
     Response: Genome sequences... more floor blueprints... far too many dlls... oh...
   - Name: ResponseNode
     Type: Response
     ID: 56
-    Position: {x: 1148, y: 4876}
+    Position: {x: 60979, y: 826}
     NodeComponents: []
     Comments: 
     Response: There are MEM files here.
   - Name: ResponseNode
     Type: Response
     ID: 57
-    Position: {x: 2345, y: 4876}
+    Position: {x: 62176, y: 826}
     NodeComponents: []
     Comments: 
     Response: Yeah.
   - Name: ResponseNode
     Type: Response
     ID: 59
-    Position: {x: 3586, y: 4876}
+    Position: {x: 63417, y: 826}
     NodeComponents: []
     Comments: 
     Response: Definitely.
   - Name: ResponseNode
     Type: Response
     ID: 60
-    Position: {x: 4807, y: 4876}
+    Position: {x: 64638, y: 826}
     NodeComponents: []
     Comments: 
     Response: I'll be fine.
   - Name: ResponseNode
     Type: Response
     ID: 61
-    Position: {x: 5418, y: 4876}
+    Position: {x: 65249, y: 826}
     NodeComponents: []
     Comments: 
     Response: We should be back in a couple hours.
   - Name: ResponseNode
     Type: Response
     ID: 62
-    Position: {x: 4199, y: 3667}
-    NodeComponents: []
+    Position: {x: 51246, y: 778}
+    NodeComponents:
+    - rid: 2479963375574712321
     Comments: 
     Response: ...
   - Name: ResponseNode
     Type: Response
     ID: 64
-    Position: {x: 560, y: 539}
+    Position: {x: 5308, y: -99}
     NodeComponents: []
     Comments: 
     Response: Oops- ! I almost just fell. Didn't see the step there.
   - Name: ResponseNode
     Type: Response
     ID: 65
-    Position: {x: 2350, y: 0}
+    Position: {x: 2966, y: 134}
     NodeComponents: []
     Comments: 
     Response: I followed a maintenance stairwell down as far as I could go once.
@@ -864,56 +932,56 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 66
-    Position: {x: 2985, y: 475}
+    Position: {x: 7705, y: -83}
     NodeComponents: []
     Comments: 
     Response: You enjoy wading around in decades-old simu-sludge?
   - Name: ResponseNode
     Type: Response
     ID: 67
-    Position: {x: 4203, y: 475}
+    Position: {x: 8931, y: -95}
     NodeComponents: []
     Comments: 
     Response: Charming.
   - Name: ResponseNode
     Type: Response
     ID: 68
-    Position: {x: 4812, y: 475}
+    Position: {x: 8931, y: 248}
     NodeComponents: []
     Comments: 
     Response: Who told you that?
   - Name: ResponseNode
     Type: Response
     ID: 69
-    Position: {x: 4203, y: 789}
+    Position: {x: 13787, y: -326}
     NodeComponents: []
     Comments: 
     Response: We've already descended through three of them...
   - Name: ResponseNode
     Type: Response
     ID: 70
-    Position: {x: 5423, y: 789}
+    Position: {x: 13787, y: 276}
     NodeComponents: []
     Comments: 
     Response: There's at least six. Well actually...
   - Name: ResponseNode
     Type: Response
     ID: 71
-    Position: {x: 2350, y: 1836.5}
+    Position: {x: 18889, y: 630}
     NodeComponents: []
     Comments: 
     Response: That's a cabinet.
   - Name: ResponseNode
     Type: Response
     ID: 72
-    Position: {x: 6669, y: 1883.5}
+    Position: {x: 23148, y: 477}
     NodeComponents: []
     Comments: 
     Response: Yeah. It's stopped. Means it's just Solid State storage up ahead.
   - Name: ResponseNode
     Type: Response
     ID: 73
-    Position: {x: 6669, y: 2202}
+    Position: {x: 23148, y: 795}
     NodeComponents: []
     Comments: 
     Response: Beeping? I Can't hear anything. Are you sure you don't have permanent
@@ -921,38 +989,170 @@ MonoBehaviour:
   - Name: ResponseNode
     Type: Response
     ID: 74
-    Position: {x: 1153, y: 2172}
+    Position: {x: 25778, y: 650}
     NodeComponents: []
     Comments: 
     Response: That's good to hear. You know, I'm glad you're here.
   - Name: ResponseNode
     Type: Response
     ID: 75
-    Position: {x: 2985, y: 2529.5}
+    Position: {x: 31712, y: 1136}
     NodeComponents: []
     Comments: 
     Response: This may have been a last-minute evacuation. You know how hasty those
       first few moves were. Remember, this was back before distributed cooling would
       buy us an extra decade per reinforcement.
+  - Name: ResponseNode
+    Type: Response
+    ID: 76
+    Position: {x: 34228, y: 1133}
+    NodeComponents: []
+    Comments: 
+    Response: What?
+  - Name: ResponseNode
+    Type: Response
+    ID: 77
+    Position: {x: 38494, y: 870}
+    NodeComponents: []
+    Comments: 
+    Response: They were probably just like us. Scavenging what they could from the
+      lower levels before moving along.
+  - Name: ResponseNode
+    Type: Response
+    ID: 78
+    Position: {x: 39667, y: 681}
+    NodeComponents: []
+    Comments: 
+    Response: It was probably already outdated. Even for their time.
+  - Name: ResponseNode
+    Type: Response
+    ID: 79
+    Position: {x: 39701, y: 1482}
+    NodeComponents: []
+    Comments: 
+    Response: 'Not anymore than we do. '
+  - Name: ResponseNode
+    Type: Response
+    ID: 80
+    Position: {x: 41994, y: 1541}
+    NodeComponents: []
+    Comments: 
+    Response: 'This place was designd to only be serviced and accesed by pre-programmed
+      walkers. '
+  - Name: ResponseNode
+    Type: Response
+    ID: 81
+    Position: {x: 43312, y: 1527}
+    NodeComponents: []
+    Comments: 
+    Response: Logging the branch names is the easy part. Parsing and formatting the
+      directional data is the hard part. But we're almost there. I promise.
+  - Name: ResponseNode
+    Type: Response
+    ID: 82
+    Position: {x: 45782, y: 1229}
+    NodeComponents: []
+    Comments: 
+    Response: We're here.
+  - Name: ResponseNode
+    Type: Response
+    ID: 83
+    Position: {x: 48159, y: 1337}
+    NodeComponents: []
+    Comments: 
+    Response: You did bring it right?
+  - Name: ResponseNode
+    Type: Response
+    ID: 84
+    Position: {x: 49399, y: 1337}
+    NodeComponents: []
+    Comments: 
+    Response: Shit.
+  - Name: ResponseNode
+    Type: Response
+    ID: 85
+    Position: {x: 50634, y: 1462}
+    NodeComponents: []
+    Comments: 
+    Response: I'm going to have to parse it manually then. You're going to have to
+      brace my head. I might thrash around a bit.
+  - Name: ResponseNode
+    Type: Response
+    ID: 86
+    Position: {x: 51841, y: 1462}
+    NodeComponents: []
+    Comments: 
+    Response: Plugging in now.
+  - Name: ResponseNode
+    Type: Response
+    ID: 87
+    Position: {x: 52450, y: 1462}
+    NodeComponents:
+    - rid: 2479963375574712320
+    Comments: 
+    Response: '[ INITIALIZING ]
+
+
+
+      [ sudo ls -v ]
+
+
+
+      -- dir --
+
+      |->
+      config
+
+      |-> boot
+
+      |-> help
+
+      |-> os
+
+      |-> quit'
+  - Name: ResponseNode
+    Type: Response
+    ID: 88
+    Position: {x: 53038, y: 1462}
+    NodeComponents: []
+    Comments: 
+    Response: "[ boot load bin access {0..157} ]\r\n\n[ ACCESSING | 1.40% ]\r\n\r[
+      ACCESSING | 8.97% ]\r\n\r[ ACCESSING | 43.00% ]\n[ ACCESS\u2400`WB\u2410\u2408\u240B!k\u24049Ir\u2409Bmn%
+      |\u2400y]\u241A1N9tA>%4\r%_Oj\u2401O:^\"sl~\u2413\u2412cn\u2403:o243\u241Aymc\u2402\u2404\u2417<\u2404B\r\n:>+\u2405B\u2409X\u2416\u2400\u241A\u2401\u2417'ZA}Xa#%\u2408$JG\u240F\\o@\u240Ex^^\r\ne?\u241AOp,T\u2419a\u241B\u2402@9\u240B.'4~h\u2402\u241Ad
+      eCov\u240D\u2402D_\r\nL\u2404,d\u2410 D&+`V&[ ACCESSING | 43.85% ]op\u2402\\>\u2413k\u240A\u240Fu\u241DV\u2414?()I#
+      \u2408GU\u2410;\u240Fnr`I\u241A72\u240BZ\u241Drjvb>a\u2400{@\u2413g*Tk<\"\r\nch%eJ\u24117i2.0@9C\u240FLup\u240B6\u2403~3Yh\u2409\u2413\u240Dk'\u240F\r\nn\u2414[F\u2401$\u2404o\"n\u2421\u240Ak%|\u2410U!fl=LQ\u240D%\u2415\u2417\u240CUA7c\r\u2405<)8m4q\u241C\u240Aj\u2412B\u2410`Y\u2421\u241A7\u240A\u2416h^(\u2419E<G\u2404ZAjN\r\n((,d/I2\u2400T\u2402\u241A5i\u2402?C}\u241A
+      \"[\u241F\u2404\u2413LTsr\u240Bop\u2412\r\n\r\r\n[ sudo rm grbg collect ]\r\n\r\n[
+      ACCESSING | 69.42% ]\r\n\r[ ACCESSING | 82.01% ]\r\n\r[ ACCESSING | 99.97%
+      ]\r\n\r[ ACCESSING | 100.00% ]\r\n\r\n[ QUIT ]"
+  - Name: ResponseNode
+    Type: Response
+    ID: 89
+    Position: {x: 53627, y: 1462}
+    NodeComponents:
+    - rid: 2479963375574712322
+    Comments: 
+    Response: ...
   IfNodes: []
   StartNode:
     Name: StartNode
     Type: Start
     ID: 0
-    Position: {x: -591, y: 0}
-    NodeComponents: []
+    Position: {x: 10, y: 92}
+    NodeComponents:
+    - rid: 2479963375653356576
     Comments: 
   EndNodes:
   - Name: EndNode
     Type: End
     ID: 0
-    Position: {x: 6037, y: 4876}
-    NodeComponents: []
+    Position: {x: 65868, y: 826}
+    NodeComponents:
+    - rid: 2479963375653356928
     Comments: 
   Groups:
   - Name: Introduction
     ID: 1
-    Position: {x: -76, y: -221.5}
+    Position: {x: -15, y: -453}
     Nodes:
     - Choice
     - Choice
@@ -990,11 +1190,12 @@ MonoBehaviour:
     - Response
     - Choice
     - Response
-    NodeIDs: 0100000002000000030000000400000005000000000000000100000004000000050000000600000007000000080000000600000009000000070000000a000000080000000b000000090000000c0000000a0000000e0000000f00000040000000410000002b000000000000002c000000420000002d00000043000000440000002e000000450000002f00000046000000
+    - Start
+    NodeIDs: 0100000002000000030000000400000005000000000000000100000004000000050000000600000007000000080000000600000009000000070000000a000000080000000b000000090000000c0000000a0000000e0000000f00000040000000410000002b000000000000002c000000420000002d00000043000000440000002e000000450000002f0000004600000000000000
     Comments: 
   - Name: LivingQuarters
     ID: 4
-    Position: {x: -75.99992, y: 1459.5}
+    Position: {x: 16459, y: 10}
     Nodes:
     - Choice
     - Choice
@@ -1039,11 +1240,17 @@ MonoBehaviour:
     - Response
     - Choice
     - Response
-    NodeIDs: 0b0000000c0000000d0000000e0000001100000012000000130000001400000015000000100000001200000013000000140000001500000018000000190000001a0000001b0000001c0000001d0000001e00000016000000170000001f0000001800000019000000220000001a000000230000001b000000250000000f00000010000000160000001700000020000000470000004800000049000000310000004a000000320000004b000000
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Response
+    NodeIDs: 0b0000000c0000000d0000000e0000001100000012000000130000001400000015000000100000001200000013000000140000001500000018000000190000001a0000001b0000001c0000001d0000001e00000016000000170000001f0000001800000019000000220000001a000000230000001b000000250000000f00000010000000160000001700000020000000470000004800000049000000310000004a000000320000004b0000004c000000330000004d000000340000004e0000004f000000
     Comments: 
   - Name: PluggingIn
     ID: 5
-    Position: {x: -80, y: 3216.5}
+    Position: {x: 40587, y: 719}
     Nodes:
     - Response
     - Choice
@@ -1061,11 +1268,26 @@ MonoBehaviour:
     - Response
     - Response
     - Response
-    NodeIDs: 260000001c000000280000001d0000002a0000001e0000002b0000001f0000002d00000020000000210000002f0000003000000031000000320000003e000000
+    - Response
+    - Choice
+    - Response
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Choice
+    - Response
+    - Response
+    - Response
+    - Response
+    NodeIDs: 260000001c000000280000001d0000002a0000001e0000002b0000001f0000002d00000020000000210000002f0000003000000031000000320000003e000000500000003500000051000000520000003600000053000000370000005400000038000000550000003a00000056000000570000005800000059000000
     Comments: 
   - Name: Ending
     ID: 6
-    Position: {x: -81, y: 4431.5}
+    Position: {x: 54300, y: 529}
     Nodes:
     - Choice
     - Response
@@ -1271,6 +1493,11 @@ MonoBehaviour:
     To: Response
     ToID: 32
   - From: Choice
+    FromID: 24
+    FromIndex: 2
+    To: Response
+    ToID: 76
+  - From: Choice
     FromID: 25
     FromIndex: 1
     To: Response
@@ -1281,20 +1508,40 @@ MonoBehaviour:
     To: Response
     ToID: 35
   - From: Choice
+    FromID: 26
+    FromIndex: 2
+    To: Response
+    ToID: 38
+  - From: Choice
     FromID: 27
     FromIndex: 1
     To: Response
     ToID: 37
+  - From: Choice
+    FromID: 27
+    FromIndex: 2
+    To: Response
+    ToID: 77
   - From: Choice
     FromID: 28
     FromIndex: 1
     To: Response
     ToID: 40
   - From: Choice
+    FromID: 28
+    FromIndex: 2
+    To: Response
+    ToID: 80
+  - From: Choice
     FromID: 29
     FromIndex: 1
     To: Response
     ToID: 42
+  - From: Choice
+    FromID: 29
+    FromIndex: 2
+    To: Response
+    ToID: 43
   - From: Choice
     FromID: 30
     FromIndex: 1
@@ -1304,12 +1551,17 @@ MonoBehaviour:
     FromID: 31
     FromIndex: 1
     To: Response
-    ToID: 45
+    ToID: 82
   - From: Choice
     FromID: 32
     FromIndex: 1
     To: Choice
     ToID: 33
+  - From: Choice
+    FromID: 32
+    FromIndex: 2
+    To: Choice
+    ToID: 54
   - From: Choice
     FromID: 33
     FromIndex: 1
@@ -1330,6 +1582,11 @@ MonoBehaviour:
     FromIndex: 1
     To: Response
     ToID: 53
+  - From: Choice
+    FromID: 36
+    FromIndex: 2
+    To: Response
+    ToID: 54
   - From: Choice
     FromID: 37
     FromIndex: 1
@@ -1410,6 +1667,56 @@ MonoBehaviour:
     FromIndex: 1
     To: Response
     ToID: 28
+  - From: Choice
+    FromID: 51
+    FromIndex: 1
+    To: Choice
+    ToID: 25
+  - From: Choice
+    FromID: 52
+    FromIndex: 1
+    To: Response
+    ToID: 78
+  - From: Choice
+    FromID: 52
+    FromIndex: 2
+    To: Response
+    ToID: 79
+  - From: Choice
+    FromID: 53
+    FromIndex: 1
+    To: Response
+    ToID: 81
+  - From: Choice
+    FromID: 53
+    FromIndex: 2
+    To: Response
+    ToID: 42
+  - From: Choice
+    FromID: 54
+    FromIndex: 1
+    To: Response
+    ToID: 83
+  - From: Choice
+    FromID: 55
+    FromIndex: 1
+    To: Response
+    ToID: 84
+  - From: Choice
+    FromID: 55
+    FromIndex: 2
+    To: Response
+    ToID: 48
+  - From: Choice
+    FromID: 56
+    FromIndex: 1
+    To: Response
+    ToID: 85
+  - From: Choice
+    FromID: 58
+    FromIndex: 1
+    To: Response
+    ToID: 86
   - From: Response
     FromID: 0
     FromIndex: 0
@@ -1730,6 +2037,76 @@ MonoBehaviour:
     FromIndex: 0
     To: Choice
     ToID: 23
+  - From: Response
+    FromID: 76
+    FromIndex: 0
+    To: Choice
+    ToID: 51
+  - From: Response
+    FromID: 77
+    FromIndex: 0
+    To: Choice
+    ToID: 52
+  - From: Response
+    FromID: 78
+    FromIndex: 0
+    To: Response
+    ToID: 38
+  - From: Response
+    FromID: 79
+    FromIndex: 0
+    To: Response
+    ToID: 38
+  - From: Response
+    FromID: 80
+    FromIndex: 0
+    To: Choice
+    ToID: 53
+  - From: Response
+    FromID: 81
+    FromIndex: 0
+    To: Response
+    ToID: 82
+  - From: Response
+    FromID: 82
+    FromIndex: 0
+    To: Response
+    ToID: 45
+  - From: Response
+    FromID: 83
+    FromIndex: 0
+    To: Choice
+    ToID: 55
+  - From: Response
+    FromID: 84
+    FromIndex: 0
+    To: Choice
+    ToID: 56
+  - From: Response
+    FromID: 85
+    FromIndex: 0
+    To: Choice
+    ToID: 58
+  - From: Response
+    FromID: 86
+    FromIndex: 0
+    To: Response
+    ToID: 87
+  - From: Response
+    FromID: 87
+    FromIndex: 0
+    To: Response
+    ToID: 88
+  - From: Response
+    FromID: 88
+    FromIndex: 0
+    To: Response
+    ToID: 89
+  - From: Response
+    FromID: 89
+    FromIndex: 0
+    To: Choice
+    ToID: 34
   - From: Start
     FromID: 0
     FromIndex: 0
@@ -1743,8 +2120,58 @@ MonoBehaviour:
       data:
         Collapsed: 0
         Active: 1
-    - rid: 2479963306684317715
+    - rid: 2479963375574712320
+      type: {class: SetTypewriter, ns: Descant.Components, asm: omch.descant.components}
+      data:
+        Collapsed: 0
+        Active: 1
+    - rid: 2479963375574712321
       type: {class: SetTypewriter, ns: Descant.Components, asm: omch.descant.components}
       data:
         Collapsed: 0
         Active: 0
+    - rid: 2479963375574712322
+      type: {class: SetTypewriter, ns: Descant.Components, asm: omch.descant.components}
+      data:
+        Collapsed: 0
+        Active: 0
+    - rid: 2479963375653356573
+      type: {class: Event, ns: Descant.Components, asm: omch.descant.components}
+      data:
+        Collapsed: 0
+        ObjectTag: 
+        ScriptName: AtmosphereController
+        MethodName: Next
+        Parameter: 
+    - rid: 2479963375653356574
+      type: {class: Event, ns: Descant.Components, asm: omch.descant.components}
+      data:
+        Collapsed: 0
+        ObjectTag: 
+        ScriptName: AtmosphereController
+        MethodName: Next
+        Parameter: 
+    - rid: 2479963375653356575
+      type: {class: Event, ns: Descant.Components, asm: omch.descant.components}
+      data:
+        Collapsed: 0
+        ObjectTag: 
+        ScriptName: AtmosphereController
+        MethodName: Next
+        Parameter: 
+    - rid: 2479963375653356576
+      type: {class: Event, ns: Descant.Components, asm: omch.descant.components}
+      data:
+        Collapsed: 0
+        ObjectTag: 
+        ScriptName: AtmosphereController
+        MethodName: Next
+        Parameter: 
+    - rid: 2479963375653356928
+      type: {class: Event, ns: Descant.Components, asm: omch.descant.components}
+      data:
+        Collapsed: 0
+        ObjectTag: 
+        ScriptName: AtmosphereController
+        MethodName: Quit
+        Parameter: 
